@@ -1,0 +1,2 @@
+rootProject.name = 'winlator-1'
+include ':app'
