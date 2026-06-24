@@ -1,0 +1,3 @@
+/Users/chensihan/Desktop/winlator-1/build/CMakeFiles/asound_module_pcm_android_aserver.dir
+/Users/chensihan/Desktop/winlator-1/build/CMakeFiles/edit_cache.dir
+/Users/chensihan/Desktop/winlator-1/build/CMakeFiles/rebuild_cache.dir

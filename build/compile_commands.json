@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/chensihan/Desktop/winlator-1/build",
+  "command": "/usr/bin/clang -Dasound_module_pcm_android_aserver_EXPORTS -I/Users/chensihan/Desktop/winlator-1/android_alsa/include  -Wall -O2 -fPIC -DPIC -g -arch arm64 -fPIC -o CMakeFiles/asound_module_pcm_android_aserver.dir/module_pcm_android_aserver.c.o -c /Users/chensihan/Desktop/winlator-1/android_alsa/module_pcm_android_aserver.c",
+  "file": "/Users/chensihan/Desktop/winlator-1/android_alsa/module_pcm_android_aserver.c",
+  "output": "CMakeFiles/asound_module_pcm_android_aserver.dir/module_pcm_android_aserver.c.o"
+}
+]

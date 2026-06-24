@@ -1,0 +1,1 @@
+/usr/bin/clang  -Wall -O2 -fPIC -DPIC -g -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -L/opt/homebrew/opt/llvm/lib -o libasound_module_pcm_android_aserver.dylib -install_name @rpath/libasound_module_pcm_android_aserver.dylib CMakeFiles/asound_module_pcm_android_aserver.dir/module_pcm_android_aserver.c.o  /data/data/com.winlator/files/rootfs/lib/libasound.so.2
